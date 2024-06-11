@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Java, jQuery, SQL, PHP, HTML, CSS, JS, PHP, Bootstrap 5, Semantic UI and SQL.<br><br>📫 How to reach me: wickramasinghekawindya@gmail.com<br><br>👨‍💻 I am a Frontend Developer. 🌆<br><br>⚡ Fun fact: Call me as Kavi.
+**🌱 I’m currently learning Java, jQuery, SQL, PHP, HTML, CSS, JS, PHP, Bootstrap 5, Semantic UI and SQL.<br><br>📫 How to reach me: wickramasinghekawindya@gmail.com<br><br>👨‍💻 I am a Frontend Developer. 🌆<br><br>⚡ Fun fact: Call me as Kavi.**
 
 
 # 💻 Tech Stack:
